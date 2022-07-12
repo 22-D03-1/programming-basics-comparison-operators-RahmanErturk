@@ -40,7 +40,7 @@ console.log({frage7});
 
 
 // Frage 8
-const frage8 = mangoes === äpfel === oranges;
+const frage8 = mangoes === äpfel && mangoes === oranges;
 console.log({frage8})
 
 
